@@ -214,4 +214,10 @@ printf '\e[1;96mBashrc:\e[0m %s\n\n' "$BASHRC"
 
 printf '\e[1;93mReloading Bash configuration...\e[0m\n\n'
 
-source "$BASHRC"
+echo
+echo "JINX PS1 installed successfully!"
+echo
+echo "Run the following command to apply the changes:"
+echo
+echo "source ~/.bashrc"
+echo
