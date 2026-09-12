@@ -117,24 +117,3 @@ and:
 
 Then reload Bash:
 
-### Roadmap
-
-* More built-in themes
-
-* Live prompt preview
-
-* Configuration file support
-
-* Import and export settings
-
-* Automatic Nerd Font detection
-
-* Multiple prompt layouts
-
-* Git branch and Git status support
-
-* Optional system information
-
-* Optional Fastfetch integration
-
-* Improved Termux support
